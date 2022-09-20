@@ -4,16 +4,16 @@
 */
 
 body {
-  background-color: rgb(125, 146, 250);
+  background-color: rgb(125 146 250);
 }
 
 h1 {
-  background-color: rgb(69, 56, 140);
+  background-color: rgb(69 56 140);
   color: hsl(147deg 50% 47%);
   padding: 40px;
   text-align: center;
 }
 
 p {
-  background-color: rgb(143, 247, 69);
+  background-color: rgb(143 247 69);
 }
